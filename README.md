@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on AIGC engineering.
 - 🌱 I’m currently learning Rust and internal concepts of Go.
 - 📫 How to reach me: techiscy@outlook.com.
-- 📔 https://iace.tech or https://techiscy.github.io/
+- 📔 https://iace.tech or https://techiscy.github.io
 
 <!--
 **TeCHiScy/TeCHiScy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
