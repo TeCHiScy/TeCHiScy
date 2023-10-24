@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=TeCHiScy&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+- 🔭 I’m currently working on AIGC engineering.
+- 🌱 I’m currently learning Rust and internal concepts of Go.
+- 📫 How to reach me: techiscy@outlook.com.
+- 📔 https://iace.tech or https://techiscy.github.io/
+
 <!--
 **TeCHiScy/TeCHiScy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
